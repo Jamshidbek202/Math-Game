@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test Game</string>
+    <string name="your_name">Your name</string>
+    <string name="the_number_of_quizzes">The number of quizzes</string>
+    <string name="next">NEXT</string>
+    <string name="answer">Answer..</string>
+    <string name="welcomer_to_the_math_game">Welcome to the Math Game</string>
+</resources>
